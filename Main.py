@@ -11,7 +11,7 @@ from matplotlib.patches import Rectangle
 
 class SproutsDataset(Dataset):
     """
-    class that defines and loads the kangaroo dataset
+    class that defines and loads the sprout dataset
     """
 
     def load_dataset(self, dataset_dir, is_train=True, split=True):
